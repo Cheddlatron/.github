@@ -2,8 +2,6 @@
 
 Small team working on Cheddlatron Selfbot.
 
-Slowly on our way to conquering Poland!
-
-## https://Cheddlatron.com/
+## Now Released at https://Cheddlatron.com/
 
 # o/
